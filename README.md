@@ -114,3 +114,9 @@ http://127.0.0.1:8080/ocr
 ## 技术支持   
 mail:chineseocr@hotmail.com  
 wechat:lywen52  
+
+
+
+
+
+实际部署遇到的很多坑~
